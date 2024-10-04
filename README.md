@@ -36,6 +36,8 @@ Additionally, this GPT refines algorithms through iterative improvement. It eval
 [Math](https://github.com/sourceduty/Math)
 <br>
 [Math Simulator](https://github.com/sourceduty/Math_Simulator)
+<br>
+[Output Blaster](https://github.com/sourceduty/Output_Blaster)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
