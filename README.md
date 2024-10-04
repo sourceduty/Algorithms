@@ -20,6 +20,25 @@ Determining whether a natural or synthetic algorithm is more efficient depends o
 Synthetic algorithms, on the other hand, are designed to be efficient for specific tasks, often optimized for speed and accuracy. Human-created algorithms, like those used in computing, can process vast amounts of data in milliseconds, far outpacing any natural process in terms of speed. However, these algorithms are often rigid and limited to the specific problems they were designed to solve. While synthetic algorithms are efficient in their narrow scope, they may lack the flexibility and adaptability of natural algorithms when faced with unpredictable or complex environments. Ultimately, the best algorithm depends on the problem being addressed—natural algorithms excel in adaptability and resilience over time, while synthetic ones dominate in precision and speed for targeted tasks.
 
 #
+###
+
+| Algorithm Type       | Subcategory                   | Examples                                        |
+|----------------------|-------------------------------|-------------------------------------------------|
+| Natural Algorithms   | Swarm Intelligence            | Particle Swarm Optimization, Ant Colony Optimization, Firefly Algorithm |
+|                      | Evolutionary                  | Genetic Algorithm, Differential Evolution, Evolutionary Strategy |
+|                      | Animal Behavior               | Cuckoo Search, Cat Swarm Optimization, Dolphin Echolocation Algorithm |
+|                      | Physical/Environmental        | Water Cycle Algorithm, Invasive Weed Optimization, Moth-Flame Optimization |
+|                      | Light-Based                   | Glowworm Swarm Optimization, Firefly Algorithm   |
+|                      | Quantum-Inspired              | Quantum-Behaved Particle Swarm Optimization (QPSO) |
+| Synthetic Algorithms | Man-Made Processes            | Simulated Annealing, Tabu Search, Mine Bomb Algorithm |
+|                      | Design Optimization           | Design by Shopping Paradigm                     |
+|                      | Physics-Based                 | Harmony Search, Gravitational Search Algorithm  |
+
+This table categorizes nature-inspired and synthetic algorithms into subcategories based on the type of natural processes or man-made methods they emulate. Natural algorithms are grouped according to the natural phenomena they mimic, such as Swarm Intelligence, which includes algorithms like Particle Swarm Optimization and Firefly Algorithm, inspired by collective behavior in animal groups. Evolutionary algorithms, such as Genetic Algorithms, mimic biological evolution and natural selection. Other categories, like Animal Behavior and Physical/Environmental, focus on specific behaviors (e.g., Cuckoo Search and Dolphin Echolocation) or natural processes like the Water Cycle. Light-Based and Quantum-Inspired algorithms, such as Glowworm Swarm Optimization and Quantum-Behaved Particle Swarm Optimization, take inspiration from bioluminescence and quantum mechanics to explore complex solution spaces.
+
+On the synthetic side, the table lists Man-Made Processes, which include algorithms like Simulated Annealing and the Mine Bomb Algorithm, modeled after industrial or military processes rather than natural ones. Design Optimization refers to approaches like the Design by Shopping Paradigm, where solutions are generated and "shopped" for by a designer. Finally, Physics-Based algorithms, such as Harmony Search and Gravitational Search Algorithm, are inspired by laws of physics and mathematical principles. This distinction highlights the diversity of optimization techniques, whether derived from the natural world or entirely synthetic, used to tackle complex computational problems.
+
+#
 ### Natural-Inspired Algorithms
 
 Nature-inspired algorithms are computational techniques that draw inspiration from natural phenomena, biological evolution, and the behavior of animals to solve complex optimization problems. These algorithms replicate the processes found in nature, such as evolution, swarm behavior, and ecological interactions, to explore large solution spaces efficiently. Examples of these algorithms include the Firefly Algorithm, which mimics the bioluminescence of fireflies to solve optimization tasks by directing solutions toward brighter (better) candidates, and the Artificial Fish Swarm Algorithm, which models the collective foraging behavior of fish to search for optimal solutions.
