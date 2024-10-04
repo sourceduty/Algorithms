@@ -1,0 +1,65 @@
+Algorithm: Earth-Sun-Moon Interaction Model
+
+This Earth Algorithm Model outlines the interconnected natural cycles governed by the interactions between Earth, the Sun, and the Moon. The model integrates the daily rotation of Earth, its annual orbit around the Sun, and the Moon’s monthly orbit around Earth to explain key environmental phenomena such as day and night, tides, seasons, and temperature changes. The day-night cycle is determined by Earth's rotation, which causes alternating periods of sunlight and darkness every 24 hours. Meanwhile, the Moon’s gravitational pull, combined with the Sun’s gravity, drives the ocean tides, leading to two high tides and two low tides daily. These cycles are interdependent, as the position of the Moon affects tidal strength, and Earth’s rotation influences their timing.
+
+The model also incorporates longer cycles like the lunar phases and the Earth’s seasonal changes, both of which have significant impacts on environmental rhythms. The Moon's 29.5-day orbit around Earth governs its phases, creating the monthly cycle of new moons, full moons, and the tides associated with them. Earth's axial tilt and its 365.25-day orbit around the Sun produce the seasonal variations, with different parts of the planet receiving varying amounts of sunlight throughout the year. This axial tilt is the primary reason for temperature differences across seasons, as solar radiation is more intense during summer months when a hemisphere tilts toward the Sun. All these processes are linked to produce the patterns of time, tides, and temperatures that define life on Earth.
+
+1. Initialize Constants:
+
+   - Earth's rotational speed: 1 rotation ≈ 24 hours.
+   - Earth's orbital period around the Sun: 365.25 days.
+   - Moon's orbital period around Earth: 29.5 days.
+   - Earth's axial tilt: 23.5°.
+   - Gravitational forces: Moon and Sun.
+
+2. Day-Night Cycle:
+
+   a. Track Earth’s rotation relative to the Sun.
+   b. Assign "Day" to the hemisphere facing the Sun.
+   c. Assign "Night" to the hemisphere facing away from the Sun.
+   d. Repeat every 24 hours.
+
+3. Tidal Cycle:
+
+   a. Calculate gravitational pull of the Moon and Sun on Earth’s oceans.
+   b. Generate ocean bulges based on gravitational forces.
+   c. Track Earth’s rotation to move bulges across the globe.
+   d. Assign high tide and low tide timings.
+   e. Repeat twice daily for high and low tides.
+
+4. Lunar Phases (Month Cycle):
+
+   a. Track Moon's position in its orbit around Earth.
+   b. Calculate the angle between the Sun, Earth, and Moon.
+   c. Determine the visible illuminated portion of the Moon.
+   d. Assign lunar phases: New Moon, First Quarter, Full Moon, Last Quarter.
+   e. Repeat every 29.5 days.
+
+5. Seasonal Cycle (Year Cycle):
+
+   a. Track Earth’s position in its orbit around the Sun.
+   b. Calculate sunlight distribution based on Earth’s axial tilt and position.
+   c. When the Northern Hemisphere tilts towards the Sun, assign "Summer" to the Northern Hemisphere and "Winter" to the Southern Hemisphere.
+   d. Reverse for the opposite tilt.
+   e. Assign intermediary phases as "Spring" and "Autumn."
+   f. Repeat every 365.25 days.
+
+6. Temperature Variation:
+
+   a. Calculate incoming solar radiation based on Earth’s daily rotation and seasonal position.
+   b. Adjust for local factors: latitude, altitude, atmospheric conditions (cloud cover, greenhouse gases).
+   c. Track heat absorption and radiation at surface level.
+   d. Assign temperature value based on energy balance (warmer during the day, cooler at night; warmer in summer, cooler in winter).
+   e. Repeat daily and seasonally.
+
+7. Interconnection:
+
+   a. Link Day-Night Cycle with daily temperature variation.
+   b. Link Lunar Cycle to modulate tidal forces (stronger tides during new and full moons).
+   c. Link Seasonal Cycle to long-term temperature changes (warmer in summer, cooler in winter).
+
+8. Output:
+
+   - Daily: Day/Night, Tidal highs/lows, Temperature changes.
+   - Monthly: Lunar Phases, Tidal fluctuations.
+   - Yearly: Seasons, Temperature variation.
