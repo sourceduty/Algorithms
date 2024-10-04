@@ -1,4 +1,4 @@
-![Algorithm](https://github.com/user-attachments/assets/201d693f-01c0-4ef7-860e-1dcb5927388b)
+![Algorithm](https://github.com/user-attachments/assets/03ed4ea2-1165-4582-a642-62f2256b1fc4)
 
 > Natural and synthetic instructions or rules used to solve a problem or perform a task.
 
