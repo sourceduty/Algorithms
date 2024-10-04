@@ -1,4 +1,4 @@
-Algorithm: Earth-Sun-Moon Interaction Model
+Earth-Sun-Moon Interaction Model
 
 This Earth Algorithm Model outlines the interconnected natural cycles governed by the interactions between Earth, the Sun, and the Moon. The model integrates the daily rotation of Earth, its annual orbit around the Sun, and the Moon’s monthly orbit around Earth to explain key environmental phenomena such as day and night, tides, seasons, and temperature changes. The day-night cycle is determined by Earth's rotation, which causes alternating periods of sunlight and darkness every 24 hours. Meanwhile, the Moon’s gravitational pull, combined with the Sun’s gravity, drives the ocean tides, leading to two high tides and two low tides daily. These cycles are interdependent, as the position of the Moon affects tidal strength, and Earth’s rotation influences their timing.
 
