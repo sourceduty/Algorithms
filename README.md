@@ -59,6 +59,10 @@ Additionally, there are algorithms like the Water Cycle Algorithm, which simulat
 Additionally, this GPT refines algorithms through iterative improvement. It evaluates the performance of initial solutions and suggests enhancements, such as reducing time complexity, improving space efficiency, or parallelizing tasks where applicable. The goal is to make the algorithms not only correct but also efficient and scalable. Throughout this process, the GPT ensures that explanations are clear, guiding users to understand how and why the algorithm works, and how potential improvements can be implemented.
 
 #
+
+> Alex: "*I made this original "Table of Algorithm Types" to simply organize and structure algorithms.*"
+
+#
 ### Related Links
 
 [Geometry Simulator](https://github.com/sourceduty/Geometry_Simulator)
