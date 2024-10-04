@@ -20,7 +20,7 @@ Determining whether a natural or synthetic algorithm is more efficient depends o
 Synthetic algorithms, on the other hand, are designed to be efficient for specific tasks, often optimized for speed and accuracy. Human-created algorithms, like those used in computing, can process vast amounts of data in milliseconds, far outpacing any natural process in terms of speed. However, these algorithms are often rigid and limited to the specific problems they were designed to solve. While synthetic algorithms are efficient in their narrow scope, they may lack the flexibility and adaptability of natural algorithms when faced with unpredictable or complex environments. Ultimately, the best algorithm depends on the problem being addressed—natural algorithms excel in adaptability and resilience over time, while synthetic ones dominate in precision and speed for targeted tasks.
 
 #
-###
+### Table of Algorithm Types
 
 | Algorithm Type       | Subcategory                   | Examples                                        |
 |----------------------|-------------------------------|-------------------------------------------------|
