@@ -62,6 +62,8 @@ Additionally, this GPT refines algorithms through iterative improvement. It eval
 
 > Alex: "*I made this original 'Table of Algorithm Types' to simply organize and structure algorithms.*"
 
+> "*This 'Table of Algorithm Types' could be expanded.*"
+
 #
 ### Related Links
 
