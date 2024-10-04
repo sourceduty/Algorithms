@@ -70,6 +70,13 @@ The modifications introduced by humans typically focus on improving the performa
 Human-modified natural algorithms have been applied successfully in a wide range of fields, from engineering and logistics to machine learning and artificial intelligence. These algorithms are particularly useful in solving complex optimization problems that are difficult for traditional deterministic approaches. By combining the strengths of natural processes with human innovations, modified natural algorithms provide flexible and robust solutions that can adapt to diverse environments and challenges, often outperforming more rigid or specialized algorithms.
 
 #
+### 3D Algorithms
+
+Algorithms in 3D space are essential for handling the mathematical and computational operations required to simulate, manipulate, and visualize objects within a three-dimensional environment. At the core of these algorithms are vector and matrix operations, which define points, directions, and transformations in 3D space. Vectors represent points or directions through their components (x, y, z), and operations like vector addition, dot products, and cross products help compute distances, angles, and orientations between objects. Matrix transformations, such as translation, rotation, and scaling, allow for the manipulation of objects by repositioning, rotating, or resizing them within the 3D world. These operations are fundamental in fields like computer graphics, robotics, and physics simulations.
+
+In computer graphics, for example, algorithms that transform objects from 3D space into 2D screen space use a sequence of matrix transformations called the graphics pipeline. This pipeline involves moving objects from world space (the overall scene) to view space (the camera’s perspective) and then projecting them onto 2D screen space. Other 3D space algorithms, such as ray casting or ray tracing, help simulate light and shadow interactions between objects, which are critical for realistic rendering. Additionally, algorithms for collision detection, pathfinding, and physical simulations use geometric principles like bounding volumes and ray intersections to compute interactions between objects. These algorithms are key for immersive visual experiences, precise mechanical simulations, and accurate spatial reasoning in 3D environments.
+
+#
 
 > Alex: "*I made this original 'Table of Algorithm Types' to simply organize and structure algorithms.*"
 
