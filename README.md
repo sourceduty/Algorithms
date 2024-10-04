@@ -97,6 +97,15 @@ Finite game loops refer to a fixed sequence of possible moves and outcomes withi
 In more complex games, like Chess, calculating finite game loops ahead of time becomes more challenging due to the vast number of possible moves and states. However, algorithms like Alpha-Beta pruning or more advanced machine learning techniques can be used to explore the most relevant branches of the game tree while ignoring less promising moves, thus optimizing the decision-making process. Precomputing these algorithms ahead of gameplay gives bots a strategic advantage by allowing them to quickly evaluate possible moves during actual play, even in highly complex game environments. By narrowing down potential options before the game starts, these bots can drastically reduce the time it takes to make a decision during gameplay, ensuring that their actions are precise and calculated. This ability to pre-calculate game loops is fundamental in creating competitive, high-level game bots that can outplay human opponents in games that rely on strategic foresight and planning.
 
 #
+### Evolving
+
+Evolution is often described as an algorithm because it follows a process of repeated, systematic steps that lead to the adaptation and diversification of species. At its core, evolution operates through a combination of variation, selection, and inheritance. Genetic variations occur randomly in organisms, some of which provide advantages in survival or reproduction. These advantageous traits are more likely to be passed on to future generations. Over many generations, this selective process filters and amplifies beneficial traits, shaping the development of species. This cyclical nature, driven by environmental feedback, mimics the logic of an algorithmic process.
+
+This evolutionary algorithm is commonly modeled through the concept of "genetic algorithms" in computational fields, which simulate evolution's mechanisms. In these models, solutions to a problem are treated like individuals in a population. Random mutations and recombination (similar to genetic variation) are introduced to generate new candidate solutions. The most successful or "fit" solutions, which are determined based on a given objective or fitness function, are selected and allowed to propagate. This process repeats over several generations, with each iteration refining and improving the solution, much like natural evolution optimizes organisms for their environments.
+
+These models illustrate the abstract framework of evolution as an algorithm, showing that evolution is not simply random, but directed by a selective process. By incorporating variation, reproduction, and selection into a looped process, evolution can be seen as a problem-solving algorithm—one that shapes the biological world through a dynamic and adaptive search for optimal survival strategies. This perspective is valuable in understanding evolution's mechanisms and in applying its principles to solve complex computational or optimization problems.
+
+#
 
 > Alex: "*I made this original 'Table of Algorithm Types' to simply organize and structure algorithms.*"
 
