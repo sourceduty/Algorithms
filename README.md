@@ -22,17 +22,21 @@ Synthetic algorithms, on the other hand, are designed to be efficient for specif
 #
 ### Table of Algorithm Types
 
-| Algorithm Type       | Subcategory                   | Examples                                        |
-|----------------------|-------------------------------|-------------------------------------------------|
-| Natural Algorithms   | Swarm Intelligence            | Particle Swarm Optimization, Ant Colony Optimization, Firefly Algorithm |
-|                      | Evolutionary                  | Genetic Algorithm, Differential Evolution, Evolutionary Strategy |
-|                      | Animal Behavior               | Cuckoo Search, Cat Swarm Optimization, Dolphin Echolocation Algorithm |
-|                      | Physical/Environmental        | Water Cycle Algorithm, Invasive Weed Optimization, Moth-Flame Optimization |
-|                      | Light-Based                   | Glowworm Swarm Optimization, Firefly Algorithm   |
-|                      | Quantum-Inspired              | Quantum-Behaved Particle Swarm Optimization (QPSO) |
-| Synthetic Algorithms | Man-Made Processes            | Simulated Annealing, Tabu Search, Mine Bomb Algorithm |
-|                      | Design Optimization           | Design by Shopping Paradigm                     |
-|                      | Physics-Based                 | Harmony Search, Gravitational Search Algorithm  |
+| Algorithm Type        | Subcategory                   | Examples                                                                 |
+|-----------------------|-------------------------------|--------------------------------------------------------------------------|
+| Natural Algorithms    | Swarm Intelligence            | Particle Swarm Optimization, Ant Colony Optimization, Firefly Algorithm, Artificial Fish Swarm Algorithm, Dolphin Echolocation Algorithm |
+|                       | Evolutionary                  | Genetic Algorithm, Differential Evolution, Evolutionary Strategy, Genetic Programming |
+|                       | Animal Behavior               | Cuckoo Search, Cat Swarm Optimization, Bat Algorithm, Grey Wolf Optimizer, Moth-Flame Optimization |
+|                       | Physical/Environmental        | Water Cycle Algorithm, Invasive Weed Optimization, River Formation Dynamics, Mine Blast Algorithm |
+|                       | Light-Based                   | Glowworm Swarm Optimization, Firefly Algorithm, Light Beam Algorithm      |
+|                       | Quantum-Inspired              | Quantum-Behaved Particle Swarm Optimization (QPSO), Quantum Evolutionary Algorithm |
+|                       | Immune Systems                | Artificial Immune System (AIS), Clonal Selection Algorithm                |
+| Synthetic Algorithms  | Man-Made Processes            | Simulated Annealing, Tabu Search, Mine Bomb Algorithm, Hill Climbing, Artificial Bee Colony Algorithm |
+|                       | Design Optimization           | Design by Shopping Paradigm, Multi-Objective Evolutionary Algorithm       |
+|                       | Physics-Based                 | Harmony Search, Gravitational Search Algorithm, Electromagnetism-like Mechanism, Simulated Quantum Annealing |
+|                       | Game Theory-Based             | Nash Equilibrium Algorithm, Game-Based Evolutionary Algorithm             |
+|                       | Social and Cultural Systems   | Cultural Algorithm, Social Spider Algorithm                               |
+|                       | Music-Inspired                | Harmony Search, Music-Based Algorithm, Ensemble Learning                  |
 
 This table categorizes nature-inspired and synthetic algorithms into subcategories based on the type of natural processes or man-made methods they emulate. Natural algorithms are grouped according to the natural phenomena they mimic, such as Swarm Intelligence, which includes algorithms like Particle Swarm Optimization and Firefly Algorithm, inspired by collective behavior in animal groups. Evolutionary algorithms, such as Genetic Algorithms, mimic biological evolution and natural selection. Other categories, like Animal Behavior and Physical/Environmental, focus on specific behaviors (e.g., Cuckoo Search and Dolphin Echolocation) or natural processes like the Water Cycle. Light-Based and Quantum-Inspired algorithms, such as Glowworm Swarm Optimization and Quantum-Behaved Particle Swarm Optimization, take inspiration from bioluminescence and quantum mechanics to explore complex solution spaces.
 
