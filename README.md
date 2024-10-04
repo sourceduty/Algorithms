@@ -1,6 +1,6 @@
 ![Algorithm](https://github.com/user-attachments/assets/138368fb-efbc-448a-aad3-3df30c1fd6a4)
 
-> Natural and synthetic instructions or rules used to solve a problem or perform a task.
+> Natural, modified and synthetic instructions or rules used to solve a problem or perform a task.
 
 #
 
