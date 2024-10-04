@@ -77,6 +77,15 @@ Algorithms in 3D space are essential for handling the mathematical and computati
 In computer graphics, for example, algorithms that transform objects from 3D space into 2D screen space use a sequence of matrix transformations called the graphics pipeline. This pipeline involves moving objects from world space (the overall scene) to view space (the camera’s perspective) and then projecting them onto 2D screen space. Other 3D space algorithms, such as ray casting or ray tracing, help simulate light and shadow interactions between objects, which are critical for realistic rendering. Additionally, algorithms for collision detection, pathfinding, and physical simulations use geometric principles like bounding volumes and ray intersections to compute interactions between objects. These algorithms are key for immersive visual experiences, precise mechanical simulations, and accurate spatial reasoning in 3D environments.
 
 #
+### Calculating Gameplay
+
+![Checkmate](https://github.com/user-attachments/assets/45ebe3c6-77d1-4a37-aaab-6049e48fa6cc)
+
+Finite game loops refer to a fixed sequence of possible moves and outcomes within a game that eventually leads to an end state, such as a win, loss, or draw. In many strategy games, especially ones like Tic-Tac-Toe or Chess, the game’s structure can be represented as a finite loop because it operates within a defined set of rules and a limited number of possible moves. This allows game algorithms to simulate or calculate all possible move combinations before actual gameplay occurs, anticipating every potential outcome. For example, in Tic-Tac-Toe, the relatively small number of possible board states allows a program like the Minimax algorithm to explore every possible sequence of moves, ensuring that the bot can predict the best move in any given scenario and never make a mistake. This pre-computation leads to optimal decision-making during the game, as the bot can always respond in a way that either guarantees a win or forces a draw.
+
+In more complex games, like Chess, calculating finite game loops ahead of time becomes more challenging due to the vast number of possible moves and states. However, algorithms like Alpha-Beta pruning or more advanced machine learning techniques can be used to explore the most relevant branches of the game tree while ignoring less promising moves, thus optimizing the decision-making process. Precomputing these algorithms ahead of gameplay gives bots a strategic advantage by allowing them to quickly evaluate possible moves during actual play, even in highly complex game environments. By narrowing down potential options before the game starts, these bots can drastically reduce the time it takes to make a decision during gameplay, ensuring that their actions are precise and calculated. This ability to pre-calculate game loops is fundamental in creating competitive, high-level game bots that can outplay human opponents in games that rely on strategic foresight and planning.
+
+#
 
 > Alex: "*I made this original 'Table of Algorithm Types' to simply organize and structure algorithms.*"
 
